@@ -28,7 +28,7 @@ These names are available for import:
     using proper error handling and retry logic.
 
     Args:
-    - "es": An instance of the `Elasticsearch` class.
+    - `es`: An instance of the `Elasticsearch` class.
     - `actions`: An iterable of Elasticsearch action records (passed directly to Elasticsearch).
     - `errorsfp`: A file pointer where HTTP 400 errors are logged.
     - `logger`: A `Logger` object where messages can be logged.
