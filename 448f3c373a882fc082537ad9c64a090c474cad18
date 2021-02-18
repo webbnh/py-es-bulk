@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "82e85680_3f36750f",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1018888
+      },
+      "writtenOn": "2021-02-18T16:03:40Z",
+      "side": 1,
+      "message": "Replace these double-quotes with back-quotes.",
+      "revId": "448f3c373a882fc082537ad9c64a090c474cad18",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
